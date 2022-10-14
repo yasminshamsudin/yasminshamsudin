@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @yasminshamsudin
 - 👀 I’m interested in simulating small and large molecules
-- 🌱 I’m currently learning how to use python properly
+- 🌱 I’m currently learning how to use python properly to extract lots of data
 - 💞️ I’m looking to collaborate on science and methods development
 - 📫 Learn more about my research at https://lab.yasminshamsudin.com
 
